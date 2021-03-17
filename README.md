@@ -7,6 +7,6 @@ This my Trophy ! &#129322;
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdez&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdez&theme=nord&layout=compact)
 
 
